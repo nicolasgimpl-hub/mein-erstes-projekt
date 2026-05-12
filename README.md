@@ -1,10 +1,10 @@
 # Mein erstes Projekt
 
-Willkomen bei meinem ersten GitHub-Projekt!
+Willkommen bei meinem ersten GitHub-Projekt!
 
 ## Über dieses Projekt
 
-Dieses Projekt wurde erstellt um den GitHub-Workflow kenenzulernen.
+Dieses Projekt wurde erstellt, um den GitHub-Workflow kennenzulernen.
 
 ## Schritte
 
